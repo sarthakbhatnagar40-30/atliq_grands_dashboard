@@ -17,7 +17,7 @@ This Power BI dashboard analyzes the performance of AtliQ Grands, a luxury hotel
 - Data Modeling
 
 ## Dashboard preview
-![dashboard](dashboard preview.png)
+![dashboard](dashboardpreview.png)
 
 ## Author
 - [@sarthakbhatnagar40-30](https://github.com/sarthakbhatnagar40-30)

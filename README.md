@@ -11,14 +11,14 @@ This Power BI dashboard analyzes the performance of AtliQ Grands, a luxury hotel
 - Identify Business Improvement Opportunities
 
 ## Tools Used
-Power BI
-Excel
-DAX
-Data Modeling
+- Power BI
+- Excel
+- DAX
+- Data Modeling
 
 ## Dashboard preview
 
-## Authors
+## Author
 - [@sarthakbhatnagar40-30](https://github.com/sarthakbhatnagar40-30)
 
 ## 🔗 Links
